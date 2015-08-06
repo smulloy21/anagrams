@@ -6,7 +6,9 @@
 
 ## Description
 
-_{This application checks a list of words and determines if there are any anagrams of the given word. The user first provides a word. Then the user provides a list of words that he or she wants to check. Then they run the application.}_
+_This application checks a list of words and determines if there are any anagrams of the given word. The user first provides a word. Then the user provides a list of words that he or she wants to check. Then they run the application.
+
+  https://anagrams-epic.herokuapp.com/_
 
 ## Setup
 
