@@ -1,8 +1,8 @@
-# _{Anagrams}_
+# _Anagrams_
 
-##### _{Checks a list to search for the anagrams of a word}, {08/06/2015}_
+##### _Checks a list to search for the anagrams of a word, 08/06/2015_
 
-#### By _**{Brian Lau | Shannon Mulloy}**_
+#### By _**Brian Lau | Shannon Mulloy**_
 
 ## Description
 
