@@ -1,14 +1,14 @@
 # _Anagrams_
 
-##### _Checks a list to search for the anagrams of a word, 08/06/2015_
+##### _Checks a given list to search for anagrams of a given word, 08/06/2015_
 
 #### By _**Brian Lau | Shannon Mulloy**_
 
 ## Description
 
-_This application checks a list of words and determines if there are any anagrams of the given word. The user first provides a word. Then the user provides a list of words that he or she wants to check. Then they run the application.
+User enters a word and then a list of words. The application returns which (if any) words from the list are anagrams of the first word.
 
-  https://anagrams-epic.herokuapp.com/_
+link on heroku: https://anagrams-epic.herokuapp.com/
 
 ## Setup
 
